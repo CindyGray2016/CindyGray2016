@@ -1,8 +1,5 @@
 ![Banner](github-banner.png)
-
-
 # 👋 Hi, I’m Cynthia (aka CindyGray)
-
 - 🤖 Google AI Certified | 86% complete with Prompt Engineering
 - 🌱 Learning Python, NLP, and real-world AI tools
 - ✍️ Writer, content creator, and spiritual technologist
