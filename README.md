@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Cynthia (aka CindyGray)
 
-<!--
-**CindyGray2016/CindyGray2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Google AI Certified | 86% complete with Prompt Engineering
+- 🌱 Learning Python, NLP, and real-world AI tools
+- ✍️ Writer, content creator, and spiritual technologist
+- 🎥 TikTok: [@Cindygrayatm2016](https://www.tiktok.com/@cindygrayatm2016) | 10k+ followers
+- 🧠 Passionate about ethical AI and human-centered innovation
 
-Here are some ideas to get you started:
+### 📚 Current Projects:
+- `binary-to-python-path`: Custom learning track with notes, worksheets, and visuals
+- RemoteAI profile in progress (AI task contributor, prompt builder, content support)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Tech meets soul. Purpose meets code.
