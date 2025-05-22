@@ -1,4 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/CindyGray2016/CindyGray2016/main/github-banner.png)
+
 # 👋 Hi, I’m Cynthia (aka CindyGray)
 
 - 🤖 Google AI Certified | 86% complete with Prompt Engineering
